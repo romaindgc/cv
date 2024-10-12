@@ -15,9 +15,7 @@ Au cours de mes études à l'INSA et de mes différentes expériences profession
 
 Je suis sérieux, motivé et toujours prêt à relever de nouveaux défis. J'aime apporter de la gaîté au quotidien tout en restant concentré sur mes objectifs.
 
-Retrouvez plus de détails sur mon 'portfolio'_ !
-
-.. _portfolio: https://romaindegrace2002.wixsite.com/romain-degrace
+Retrouvez plus de détails sur mon `portfolio <https://romaindegrace2002.wixsite.com/romain-degrace>`_ !
 
 Merci d'avoir pris le temps de lire ce résumé. À bientôt !
 
@@ -25,10 +23,7 @@ Merci d'avoir pris le temps de lire ce résumé. À bientôt !
 CV
 --
 
-.. raw:: html
-
-   <embed src="images/DEGRACE_RomainCV.pdf" width="794" height="1123" type="application/pdf">
-
+Vous pouvez télécharger mon CV `ici <https://raw.githubusercontent.com/romaindgc/cv/8ff7e65cb3fd92ce05661c9e5feac9bd61badb5c/DEGRACE_Romain_CV.pdf>`_ !
 
 .. toctree::
    :maxdepth: 2
